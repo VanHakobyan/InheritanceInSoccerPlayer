@@ -4,10 +4,7 @@
  This is an example of inheritance.
  According to the data used by football players
  
- ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+ ```C#
  player Alba = new player();
             Alba.Position = "midfielder";
             Alba.Nationality = "Spain";
@@ -36,5 +33,7 @@ alert(s);
             Pique.DefensiveProwess = 88;
 
             CompaerString(TerStegen.Team, Messi.Team);
+```
+ 
 
  
