@@ -4,7 +4,7 @@
  This is an example of inheritance.
  According to the data used by football players
  
- ```C#
+ ```csharp
  player Alba = new player();
             Alba.Position = "midfielder";
             Alba.Nationality = "Spain";
