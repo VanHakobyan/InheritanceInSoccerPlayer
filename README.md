@@ -1,7 +1,13 @@
 
 # Inheritance in soccer player class library
- ![GitHub Logo](https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg "Title" {width=233px height=130px})
- 
+ ![image](https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg "Title "Title" {width=40px height=400px})
+
+![image](https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg "Title = 250x250)
+
+![image](https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg "Title = 250x)
+
+[[https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg "Title = 250x]]
+
  This is an example of inheritance.
  According to the data used by football players
  
