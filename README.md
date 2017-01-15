@@ -7,7 +7,7 @@
  According to the data used by football players
  
  ```csharp
- player Alba = new player();
+            player Alba = new player();
             Alba.Position = "midfielder";
             Alba.Nationality = "Spain";
             
@@ -34,7 +34,7 @@
             Pique.Height = 192;
             Pique.DefensiveProwess = 88;
 
-            CompaerString(TerStegen.Team, Messi.Team);
+            CompaerString(TerStegen.Team, Messi.Team);//yes of course
 ```
 
 
