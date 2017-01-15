@@ -1,7 +1,9 @@
 
 # Inheritance in soccer player class library
-![image](https://www.dreamteamfc.com/c/s3/dreamteamfc-prod/uploads/2016/09/21.jpg )
 
+<p align="center">
+<img src="http://ytimg.googleusercontent.com/vi/9vTiObCQajg/mqdefault.jpg">
+</p>
 
  This is an example of inheritance.
  According to the data used by football players
@@ -23,10 +25,10 @@
             Messi.Team = "FC Barcelona";
             Messi.Dribbling = 94;
            
-            midfielder Iniesta = new midfielder();
-            Iniesta.Pass = 94;
-            Iniesta.Nationality = "Spain";
-            Iniesta.Dribbling = 85;
+            midfielder Mkhitaryan = new midfielder();
+            Mkhitaryan.Pass = 81;
+            Mkhitaryan.Nationality = "Armenia";
+            Mkhitaryan.Dribbling = 87;
 
             Defender Pique = new Defender();
             Pique.Jump = 92;
@@ -36,6 +38,8 @@
             //Does the same team?
             CompaerString(TerStegen.Team, Messi.Team);//Yes of course
 ```
+
+## *For more [Henrikh_Mkhitaryan](https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan) <br>
 
 
  
