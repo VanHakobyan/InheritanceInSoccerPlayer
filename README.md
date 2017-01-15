@@ -33,8 +33,8 @@
             Pique.PhysicalContact = 87;
             Pique.Height = 192;
             Pique.DefensiveProwess = 88;
-
-            CompaerString(TerStegen.Team, Messi.Team);//yes of course
+            //Does the same team?
+            CompaerString(TerStegen.Team, Messi.Team);//Yes of course
 ```
 
 
