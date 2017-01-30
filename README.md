@@ -39,7 +39,7 @@
             CompaerString(TerStegen.Team, Messi.Team);//Yes of course
 ```
 
-### *For more [Henrikh Mkhitaryan](https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan) <br>
+### * For more Armenian football pride [Henrikh Mkhitaryan](https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan) <br>
 
 
  
