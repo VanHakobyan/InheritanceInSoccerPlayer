@@ -5,8 +5,9 @@
 <img src="http://ytimg.googleusercontent.com/vi/9vTiObCQajg/mqdefault.jpg">
 </p>
 
- This is an example of inheritance.
+ * This is an example of inheritance.
  According to the data used by football players
+ <br>
  
  ```csharp
             player Alba = new player();
