@@ -1,12 +1,12 @@
 
-# Inheritance in soccer player class library
+# Inheritance in soccer player class library:soccer:
 
 <p align="center">
 <img src="http://ytimg.googleusercontent.com/vi/9vTiObCQajg/mqdefault.jpg">
 </p>
 
  * This is an example of inheritance.
- According to the data used by football players
+ According to the data used by football players:soccer:
  <br>
  
  ```csharp
@@ -40,7 +40,7 @@
             CompaerString(TerStegen.Team, Messi.Team);//Yes of course
 ```
 
-### * For more Armenian football pride [Henrikh Mkhitaryan](https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan) <br>
+### * For more Armenian football pride [Henrikh Mkhitaryan](https://en.wikipedia.org/wiki/Henrikh_Mkhitaryan) :soccer:<br>
 
 
  
